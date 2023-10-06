@@ -1,5 +1,7 @@
 # 03 JavaScript: Password Generator
 
+This is my submited project for the week 3 challenge, when the create password key is clicked, you are given several prompts to select all the elements of the password. When all prompts have been answered, you will automatically have a random password created for you.
+
 ## Your Task
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
